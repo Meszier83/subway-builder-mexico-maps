@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.1.2",
+      "game_version": "<=1.4.0",
+      "date": "2026-09-22",
+      "download": "https://github.com/Meszier83/subway-builder-mexico-maps/releases/download/v1.1.2/CUR.zip",
+      "sha256": "13dd5e4a290ee94270fe505d4c43f08c10926fe7d2fbb7ae88319058fa6772a7"
+    }
+  ]
+}
